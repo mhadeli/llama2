@@ -8,6 +8,9 @@ This app was refactored from [a16z's implementation](https://github.com/a16z-inf
 
 ## Demo App
 
+<img width="1440" alt="screenshot" src="https://github.com/mhadeli/llama2/assets/58530203/c926eff8-9ae7-4d2e-a8dc-64e4b2c24386">
+
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
 
 ## Prerequisite libraries
